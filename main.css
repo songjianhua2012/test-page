@@ -1,0 +1,114 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url("4a08ea8d7db23a1eb8b6f.jpeg") no-repeat;
+    background-size: 100% auto;
+}
+
+.header {
+    width: 1000px;
+    height: 150px;
+    background: url("42z58PICPhN.jpg") no-repeat;
+    background-size: 100% auto;
+    margin: 210px auto 0 auto;
+}
+
+.aver {
+    height: 135px;
+    width: 135px;
+    border-radius: 100%;
+    background: url("u=1178273833,1627715313&fm=21&gp=0.jpg") no-repeat;
+    background-size: 100% auto;
+    /* margin: 67px auto 0 auto;*/
+    position: relative;
+    top: -67px;
+    margin: 0 auto;
+    border: 2px solid RGB(255,0,0);
+}
+
+.header h1 {
+    font-size: 30px;
+    color: RGB(255,255,255);
+    text-align: center;
+    position: relative;
+    top: -50px;
+    font-family: 'open sans',helvetica,arial,sans-serif;
+    font-weight: 300;
+}
+
+#menu {
+    width: 1000px;
+    height: 50px;
+    background: #000;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+#menu>li {
+    list-style: circle;
+    color: RGB(0,255,0);
+    display: inline-block;
+    height: 200px;
+    line-height: 50px;
+    margin: 0 40px;
+}
+
+#menu>li a:hover {
+    text-decoration: underline;
+}
+
+.botom {
+    width: 1000px;
+    height: 1000px;
+    margin: 0 auto 0 auto;
+    background: #ffffff;
+    background-size: 100% auto;
+}
+
+.left {
+    width: 200px;
+    height: 200px;
+    /*padding: 100px;*/
+    background: url("u=1178273833,1627715313&fm=21&gp=0.jpg");
+    margin: 0 100px;
+    position: relative;
+    top: 400px;
+}
+
+.mid {
+    width: 200px;
+    height: 200px;
+    /*padding: 100px;*/
+    background: url("u=1178273833,1627715313&fm=21&gp=0.jpg");
+    margin: 0 400px;
+    position: relative;
+    top: 200px;
+}
+
+.right {
+    width: 200px;
+    height: 200px;
+    /*padding: 100px;*/
+    background: url("u=1178273833,1627715313&fm=21&gp=0.jpg");
+    margin: 0 700px;
+    position: relative;
+    top: 0px;
+}
+
+#menu1 {
+    width: 1000px;
+    height: 50px;
+    margin: 0 auto;
+    padding: 0;
+    text-align: center;
+}
+
+#menu1>li {
+    ist-style: circle;
+    color: RGB(0,255,0);
+    display: inline-block;
+    height: 200px;
+    line-height: 50px;
+    margin: 0 150px;
+}
